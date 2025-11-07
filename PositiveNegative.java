@@ -1,3 +1,5 @@
+//2. Write a program to check whether given number is positive or negative? 
+
 import java.util.Scanner;
 
 public class PositiveNegative{

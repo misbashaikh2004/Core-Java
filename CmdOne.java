@@ -1,4 +1,4 @@
-public class CMD{
+public class CMDOne{
    public static void main(String[] args){
 
       if(args.length == 2){

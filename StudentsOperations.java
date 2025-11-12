@@ -112,7 +112,7 @@ public static void min(Student s[],int n){
 	}
 	
 
-	for(int i=1;i<n;i++){
+	for(int i=0;i<n;i++){
 	   if(minMarks ==s[i].marks)
 		display(s[i]);
 	}
